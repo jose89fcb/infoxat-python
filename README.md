@@ -2,4 +2,4 @@
 Necesitas python 3.7
 <br>
 
-<img src="https://i.imgur.com/6rV2kru.png">
+<img title="info xat.com" src="https://i.imgur.com/BuJpcZf.png">
